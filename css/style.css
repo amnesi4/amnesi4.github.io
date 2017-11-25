@@ -1,0 +1,39 @@
+body,
+html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+}
+.imagen-fondo {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/background.jpg");
+    min-height: 100%;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-size: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color:darkgoldenrod;
+}
+
+h3 {
+    font-size: 18px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+h4 {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+
+}
+
+p {
+
+}
